@@ -33,7 +33,7 @@ API Flask / SQL : développement d’une API REST avec authentification et base 
 
 ## 🚧 Projet en cours 
 
-plateforme de gestion d'operations militaire
+[AEGIS](https://github.com/SR9401/AEGIS) plateforme de gestion d'opérations militaire
 
 ---
 ## 🎯 Mon objectif
