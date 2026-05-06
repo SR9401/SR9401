@@ -28,12 +28,12 @@ Actuellement, je suis à la recherche d’une **alternance ou d’un stage** pou
 - [Projet HBNB](https://github.com/SR9401/HBnB) : plateforme web full-stack avec gestion d’utilisateurs et affichage dynamique de lieux  
 API Flask / SQL : développement d’une API REST avec authentification et base de données MySQL  
 - [shell C](https://github.com/SR9401/holbertonschool-simple_shell) : outils systèmes et scripts pour automatiser des tâches sous Linux  
-
+- [AEGIS](https://github.com/SR9401/AEGIS) plateforme de gestion d'opérations militaire
 ---
 
 ## 🚧 Projet en cours 
 
-[AEGIS](https://github.com/SR9401/AEGIS) plateforme de gestion d'opérations militaire
+
 
 ---
 ## 🎯 Mon objectif
